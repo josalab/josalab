@@ -11,12 +11,6 @@ copyright: Copyright &copy; 2019 - 2021 Josafá Sisino Machado
 theme:
   name: material
   language: pt
-  custom_dir: napne_theme/
-  #  palette:
-  #  primary: 'green'
-
-    #extra:
-    # disqus: napne
 
 nav:
   - index.md
