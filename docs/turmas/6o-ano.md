@@ -1,6 +1,6 @@
 # Sala de Aula do 6o ano
  - Português
- - [Matemática](6o-ano/matematica/)
+ - [Matemática](matematica/)
  - [Ciências](https://padlet.com/fredericohorie/9e41orplusemk1g3)
  - História
  - Geografia
