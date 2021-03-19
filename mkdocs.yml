@@ -20,8 +20,8 @@ theme:
 
 nav:
   - index.md
-  - pais
-  - professores
+  - pais.md
+  - professores.md
   - Turmas:
     - turmas/1o-ano.md
     - turmas/2o-ano.md
