@@ -1,1 +1,11 @@
 # Sala de Aula Josafa 6o ano
+ - Português
+ - Matemática
+ - [Ciências](https://padlet.com/fredericohorie/9e41orplusemk1g3)
+ - História
+ - Geografia
+ - Ensino Religioso
+ - Educação Física
+ - Artes
+ - Inglês
+ - Sala de Leitura
