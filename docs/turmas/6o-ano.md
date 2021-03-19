@@ -1,6 +1,6 @@
 # Sala de Aula do 6o ano
  - Português
- - [Matemática](https://www.facebook.com/groups/josafasisino6ano/learning_content/?filter=1143697522633726)
+ - [Matemática](6o-ano/matematica/)
  - [Ciências](https://padlet.com/fredericohorie/9e41orplusemk1g3)
  - História
  - Geografia
