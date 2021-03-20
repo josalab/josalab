@@ -1,11 +1,3 @@
 # Sala de Aula do 6o ano
- - Português
- - [Matemática](matematica/)
- - [Ciências](https://padlet.com/fredericohorie/9e41orplusemk1g3)
- - História
- - Geografia
- - Ensino Religioso
- - Educação Física
- - Artes
- - Inglês
- - Sala de Leitura
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeGmrvBsdXIXiET3k5bBP7xsP3IVvyJh5VIgCQcWYogQ0S96g/viewform?embedded=true" width="640" height="1340" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
