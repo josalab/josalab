@@ -2,7 +2,7 @@ site_name: Portal do Josafá Sisino Machado
 
 # Repository
 repo_url: https://github.com/josalab/josalab
-edit_uri: "edit/master/docs"
+edit_uri: "edit/main/docs"
 
 # Copyright
 copyright: Copyright &copy; 2019 - 2021 Josafá Sisino Machado
