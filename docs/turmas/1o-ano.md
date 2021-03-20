@@ -1,1 +1,1 @@
-# Sala de Aula do 1o ano
+# Sala de Aula do 1º ano

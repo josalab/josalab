@@ -1,4 +1,4 @@
-# Sala de Aula do 6o ano
+# Sala de Aula do 6º ano
 
 ## Indicação de AVA por professor(a)
 
