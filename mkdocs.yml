@@ -9,6 +9,8 @@ copyright: Copyright &copy; 2019 - 2021 Josafá Sisino Machado
 
 # Configuration
 theme:
+  favicon: imagens/favicon.ico
+  logo: imagens/favicon.ico
   name: material
   language: pt
 
