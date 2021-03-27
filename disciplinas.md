@@ -1,4 +1,3 @@
-# Sala de Aula do 4º ano
 
 - [Artes]()
 - [Ciências]()
@@ -6,7 +5,6 @@
 - [Ensino Religioso]()
 - [Geografia]()
 - [História]()
-- [Informática]()
 - [Inglês]()
 - [Matemática]()
 - [Português]()
