@@ -11,7 +11,7 @@
 - [Português](https://padlet.com/fredericohorie/zopskyd1jgmi032v)
 - [Sala de Leitura]()
 
-# Reinserção
+# Reinserção 6º ano
 
 Para os alunos em reinserção, as atividades de cada disciplina podem ser acessadas pelos links abaixo:
 
