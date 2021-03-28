@@ -1,12 +1,12 @@
 # Sala de Aula do 6º ano
 
 - [Artes]()
-- [Ciências]()
+- [Ciências](https://padlet.com/fredericohorie/jkow695l59ge67b0)
 - [Educação Física]()
 - [Ensino Religioso]()
 - [Geografia]()
 - [História]()
 - [Inglês]()
-- [Matemática]()
-- [Português]()
+- [Matemática](https://padlet.com/mkmdeoliveira/deyk4irn2ntjazes)
+- [Português](https://padlet.com/fredericohorie/kwmizqmk3hrgtdsl)
 - [Sala de Leitura]()
