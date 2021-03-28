@@ -16,7 +16,7 @@
 Para os alunos em reinserção, as atividades de cada disciplina podem ser acessadas pelos links abaixo:
 
 - [Artes]()
-- [Ciências]()
+- [Ciências](https://padlet.com/fredericohorie/o76l89wpgb3jrt9a)
 - [Educação Física]()
 - [Ensino Religioso]()
 - [Geografia]()
