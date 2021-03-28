@@ -1,4 +1,4 @@
-# Sala de Aula do 6º ano
+# 6º ano
 
 - [Artes]()
 - [Ciências](https://padlet.com/fredericohorie/jkow695l59ge67b0)
