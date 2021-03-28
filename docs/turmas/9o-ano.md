@@ -1,4 +1,4 @@
-# Sala de Aula do 9º ano
+# 9º ano
 
 - [Artes]()
 - [Ciências](https://padlet.com/fredericohorie/g0dfn40hmi1okbcz)
@@ -11,7 +11,7 @@
 - [Português](https://padlet.com/fredericohorie/h5zgl4w45ommg67o)
 - [Sala de Leitura]()
 
-# Reinserção do 8 º ano
+# Reinserção 8º ano
 
 Para os alunos em reinserção, as atividades de cada disciplina podem ser acessadas pelos links abaixo:
 
@@ -24,4 +24,4 @@ Para os alunos em reinserção, as atividades de cada disciplina podem ser acess
 - [Inglês]()
 - [Matemática]()
 - [Português]()
-- [Sala de Leitura]()
+
