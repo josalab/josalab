@@ -1,4 +1,4 @@
-# Sala de Aula do 7º ano
+# 7º ano
 
 - [Artes]()
 - [Ciências](https://padlet.com/fredericohorie/bjwr00kzhcsew307)
@@ -11,7 +11,7 @@
 - [Português](https://padlet.com/fredericohorie/zopskyd1jgmi032v)
 - [Sala de Leitura]()
 
-# Reinserção do 6 º ano
+# Reinserção
 
 Para os alunos em reinserção, as atividades de cada disciplina podem ser acessadas pelos links abaixo:
 
