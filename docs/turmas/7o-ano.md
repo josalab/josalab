@@ -10,3 +10,18 @@
 - [Matemática]()
 - [Português](https://padlet.com/fredericohorie/zopskyd1jgmi032v)
 - [Sala de Leitura]()
+
+# Reinserção do 6 º ano
+
+Para os alunos em reinserção, as atividades de cada disciplina podem ser acessadas pelos links abaixo:
+
+- [Artes]()
+- [Ciências]()
+- [Educação Física]()
+- [Ensino Religioso]()
+- [Geografia]()
+- [História]()
+- [Inglês]()
+- [Matemática]()
+- [Português]()
+- [Sala de Leitura]()
