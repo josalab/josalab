@@ -20,7 +20,7 @@ Para os alunos em reinserção, as atividades de cada disciplina podem ser acess
 - [Educação Física]()
 - [Ensino Religioso]()
 - [Geografia]()
-- [História]()
+- [História](https://padlet.com/fredericohorie/hfhk3jzsvy1tnlox)
 - [Inglês]()
 - [Matemática](https://padlet.com/fredericohorie/23hfazf6rte146cd)
 - [Português](https://padlet.com/fredericohorie/ua1b8ht90z702i38)
