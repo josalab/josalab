@@ -7,7 +7,7 @@
 - [Geografia]()
 - [História]()
 - [Inglês]()
-- [Matemática]()
+- [Matemática](https://padlet.com/mkmdeoliveira/7u4ygwfrq7a1ji2i)
 - [Português](https://padlet.com/fredericohorie/h5zgl4w45ommg67o)
 - [Sala de Leitura]()
 
