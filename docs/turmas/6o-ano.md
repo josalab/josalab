@@ -1,6 +1,6 @@
 # 6º ano
 
-- [Artes]()
+- [Artes](https://padlet.com/edbergon/dalo8hni2cjjbwjl)
 - [Ciências](https://padlet.com/fredericohorie/jkow695l59ge67b0)
 - [Educação Física]()
 - [Ensino Religioso]()
