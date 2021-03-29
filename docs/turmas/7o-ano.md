@@ -22,6 +22,6 @@ Para os alunos em reinserção, as atividades de cada disciplina podem ser acess
 - [Geografia]()
 - [História]()
 - [Inglês]()
-- [Matemática]()
+- [Matemática](https://padlet.com/fredericohorie/23hfazf6rte146cd)
 - [Português](https://padlet.com/fredericohorie/ua1b8ht90z702i38)
 
