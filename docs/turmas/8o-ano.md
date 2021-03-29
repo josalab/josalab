@@ -15,12 +15,12 @@
 
 Para os alunos em reinserção, as atividades de cada disciplina podem ser acessadas pelos links abaixo:
 
-- [Artes]()
+- [Artes](https://padlet.com/fredericohorie/6xsm45j2j8n5wmmk)
 - [Ciências](https://padlet.com/fredericohorie/o76l89wpgb3jrt9a)
 - [Educação Física]()
 - [Ensino Religioso]()
 - [Geografia]()
-- [História]()
+- [História](https://padlet.com/fredericohorie/lxtfc4in93s0bzh1)
 - [Inglês]()
 - [Matemática](https://padlet.com/fredericohorie/pzw2t8pe5ly0ji2w)
 - [Português](https://padlet.com/fredericohorie/5vppr3s1fvel8t9z)
