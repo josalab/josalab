@@ -1,4 +1,4 @@
-# Sala de Aula do 8º ano
+# 8º ano
 
 - [Artes]()
 - [Ciências](https://padlet.com/fredericohorie/lqz3tq38ml06jl7x)
