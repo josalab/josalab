@@ -1,0 +1,28 @@
+site_name: Portal do Josafá Sisino Machado
+
+# Repository
+repo_url: https://gitlab.com/josalab/portal-josafa
+edit_uri: "edit/main/docs"
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2021 Josafá Sisino Machado
+
+# Configuration
+theme:
+  name: material
+  language: pt
+
+nav:
+  - index.md
+  - pais.md
+  - professores.md
+  - Turmas:
+    - 1º ano: turmas/1o-ano.md
+    - 2º ano: turmas/2o-ano.md
+    - 3º ano: turmas/3o-ano.md
+    - 4º ano: turmas/4o-ano.md
+    - 5º ano: turmas/5o-ano.md
+    - 6º ano: turmas/6o-ano.md
+    - 7º ano: turmas/7o-ano.md
+    - 8º ano: turmas/8o-ano.md
+    - 9º ano: turmas/9o-ano.md
