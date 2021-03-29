@@ -5,7 +5,7 @@
 - [Educação Física]()
 - [Ensino Religioso]()
 - [Geografia]()
-- [História]()
+- [História](https://padlet.com/fredericohorie/psgeitbpzb3xxio7)
 - [Inglês]()
 - [Matemática](https://padlet.com/mkmdeoliveira/kj9ljkfquhge8cdj)
 - [Português](https://padlet.com/fredericohorie/x71d2er1q7ymf28g)
