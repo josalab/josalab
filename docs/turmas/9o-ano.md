@@ -2,25 +2,31 @@
 Nessa página vocês encontram os links para acessar as atividades de todas as disciplinas. As postagens são feitas em dias específicos da semana
 
 **Segunda-feira**
+
 - [Matemática](https://padlet.com/mkmdeoliveira/7u4ygwfrq7a1ji2i)
 - [História]()
 
 **Terça-feira**
+
 - [Ciências](https://padlet.com/fredericohorie/g0dfn40hmi1okbcz)
 - [Ensino Religioso]()
 
 **Quarta-feira**
+
 - [Artes]()
 - [Português](https://padlet.com/fredericohorie/h5zgl4w45ommg67o)
 
 **Quinta-feira**
+
 - [Inglês]()
 - [Geografia]()
 
 **Sexta-feira**
+
 - [Educação Física]()
 
 **Sábado**
+
 - [Sala de Leitura]()
 
 ## Reinserção 8º ano
