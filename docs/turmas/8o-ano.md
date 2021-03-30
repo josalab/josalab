@@ -1,14 +1,26 @@
 # 8º ano
+Nessa página vocês encontram os links para acessar as atividades de todas as disciplinas. As postagens são feitas em dias específicos da semana.
 
-- [Artes]()
-- [Ciências](https://padlet.com/fredericohorie/lqz3tq38ml06jl7x)
-- [Educação Física]()
-- [Ensino Religioso]()
-- [Geografia]()
-- [História](https://padlet.com/fredericohorie/psgeitbpzb3xxio7)
-- [Inglês]()
+**Segunda-feira**
 - [Matemática](https://padlet.com/mkmdeoliveira/kj9ljkfquhge8cdj)
+- [História](https://padlet.com/fredericohorie/psgeitbpzb3xxio7)
+
+**Terça-feira**
+- [Ciências](https://padlet.com/fredericohorie/lqz3tq38ml06jl7x)
+- [Ensino Religioso]()
+
+**Quarta-feira**
+- [Artes]()
 - [Português](https://padlet.com/fredericohorie/x71d2er1q7ymf28g)
+
+**Quinta-feira**
+- [Inglês]()
+- [Geografia]()
+
+**Sexta-feira**
+- [Educação Física]()
+
+**Sábado**
 - [Sala de Leitura]()
 
 ## Reinserção 7º ano
