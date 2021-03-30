@@ -1,5 +1,5 @@
 # 6º ano
-Nessa página vocês encontram os links para acessar as atividades de todas as disciplinas. As postagens são feitas em dias específicos da semana.
+Nessa página vocês encontram os links para acessar as atividades de todas as disciplinas. As postagens são feitas em dias específicos da semana.:+1:
 
 **Segunda-feira**
 - [Matemática](https://padlet.com/mkmdeoliveira/deyk4irn2ntjazes)
