@@ -20,7 +20,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 **Sexta-feira**
 
-- [Educação Física]()
+- [Educação Física](https://padlet.com/kallinemiranda/ef5anojosafamachado)
 - [Artes]()
 
 **Sábado**
