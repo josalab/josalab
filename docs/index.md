@@ -1,4 +1,4 @@
 # Josafá Machado 
 
-- [Versão inclusiva](inclusivo/) deste site
+- [Versão inclusiva](https://josalab.github.io/inclusivo/), para pessoas analfabetas ou surdas.
 
