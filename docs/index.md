@@ -11,9 +11,3 @@
 - [7º ano](turmas/7o-ano.md)
 - [8º ano](turmas/8o-ano.md)
 - [9º ano](turmas/9o-ano.md)
-
-<div align="center">
-<img src="imagens/brasao-parnamirim.png" alt="Brasão de Parnamirim">
-
-<p>Fonte: <a href="https://pt.wikipedia.org/wiki/Ficheiro:Bras%C3%A3o_de_Parnamirim-RN,_Brasil.png">Wikipedia</a></p>
-</div>
