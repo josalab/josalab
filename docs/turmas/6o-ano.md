@@ -28,3 +28,4 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 **Sábado**
 
 - [Sala de Leitura]()
+- [Sala  de Recursos Multifuncional]()
