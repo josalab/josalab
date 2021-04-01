@@ -1,6 +1,6 @@
 # Josafá Machado 
 
-- [Versão inclusiva](https://josalab.github.io/inclusivo/), para pessoas analfabetas ou surdas.
+[![Ícone de Libras](imagens/icon-acessivel-em-libras.png) ![Ícone de caixa de som](imagens/speaker-icon-vector-art.png)](https://josalab.github.io/inclusivo/)
 
 ## Turmas
 
