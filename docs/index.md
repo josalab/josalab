@@ -1,7 +1,5 @@
 # Josafá Machado 
 
-[![Ícone de Libras](imagens/icon-acessivel-em-libras.png) ![Ícone de caixa de som](imagens/speaker-icon-vector-art.png)](https://josalab.github.io/inclusivo/)
-
 ## Turmas
 
 - [1º ano](turmas/1o-ano.md)
