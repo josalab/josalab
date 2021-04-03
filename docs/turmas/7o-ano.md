@@ -28,7 +28,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 **Sábado**
 
 - [Sala de Leitura]()
-- [Sala  de Recursos Multifuncional]()
+- [Sala  de Recursos Multifuncional](https://padlet.com/fredericohorie/swxwpjj8uu9nzgyz)
 
 ## Reinserção 6º ano
 
