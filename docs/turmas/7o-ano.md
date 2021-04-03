@@ -13,7 +13,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 **Quarta-feira**
 
-- [Artes]()
+- [Artes](https://padlet.com/edbergon/qzdhzaau29t7zb8)
 - [Português](https://padlet.com/fredericohorie/zopskyd1jgmi032v)
 
 **Quinta-feira**
