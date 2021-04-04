@@ -9,7 +9,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 **Terça-feira**
 
 - [Ciências](https://padlet.com/fredericohorie/jkow695l59ge67b0)
-- [Ensino Religioso]()
+- [Ensino Religioso](https://padlet.com/melquiadessupervisorpibid/d7hud16i3ffcoz8n)
 
 **Quarta-feira**
 
