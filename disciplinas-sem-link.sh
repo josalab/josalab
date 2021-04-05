@@ -43,3 +43,4 @@ else
 echo "Todas as disciplinas possuem link."
 fi
  
+read -p "Pressione ENTER para sair."
