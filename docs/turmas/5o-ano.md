@@ -3,31 +3,31 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 **Segunda-feira**
 
-- [Língua Portuguesa]()
+- [Língua Portuguesa](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzExODMwODk4Mzkz)
 
 **Terça-feira**
 
-- [Matemática]()
+- [Matemática](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzExODMwODk4Mzgx)
 
 **Quarta-feira**
 
-- [Ciências]()
+- [Ciências](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzExODMwNjA4NjM1)
 
 **Quinta-feira**
 
-- [História]()
-- [Geografia]()
+- [História](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDU1NDczNTY0)
+- [Geografia](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NjUwNzUxMzc3)
 
 **Sexta-feira**
 
-- [Educação Física](https://padlet.com/kallinemiranda/ef5anojosafamachado)
-- [Artes]()
+- [Educação Física](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDU1NDczNTc1)
+- [Artes](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDUxMDIzOTQ0)
 
 **Sábado**
 
-- [Ensino Religioso]()
-- [Sala de Leitura]()
-- [Sala  de Recursos Multifuncional]()
+- [Ensino Religioso](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDUxMDI0MTQ1)
+- [Sala de Leitura](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDUxMDI0MDUz)
+- [Sala  de Recursos Multifuncional](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDUxMDI0MDQ1)
 
 ## Reinserção 4º ano
 
