@@ -12,7 +12,7 @@ if grep -q '()' $TURMAS; then
 cat << FIM
 ## Número, por turma, de disciplinas sem link
 
-$(grep -c '()' docs/turmas/*.md | sed 's@docs/turmas/@@;s/^/- /')
+$(grep -c '()' docs/turmas/*.md | egrep -v ':0$' | sed 's@docs/turmas/@@;s/^/- /')
 
 
 FIM
