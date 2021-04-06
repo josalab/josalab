@@ -29,3 +29,14 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 - [Sala de Leitura](https://padlet.com/fredericohorie/6anoleitura)
 - [Sala  de Recursos Multifuncional](https://padlet.com/fredericohorie/swxwpjj8uu9nzgyz)
+
+## Reinserção 5º ano
+Para os alunos em reinserção, as atividades de cada disciplina podem ser acessadas pelos links abaixo:
+- [Artes]()
+- [Ciências]()
+- [Educação Física]()
+- [Ensino Religioso]()
+- [Geografia]()
+- [História]()
+- [Matemática]()
+- [Português]()
