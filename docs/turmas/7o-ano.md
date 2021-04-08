@@ -18,7 +18,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 **Quinta-feira**
 
-- [Inglês]()
+- [Inglês](https://padlet.com/leodobrasilprof/ekako0hspky3v6nb)
 - [Geografia](https://padlet.com/HudsonEmanoel/7anogeo)
 
 **Sexta-feira**
