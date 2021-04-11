@@ -18,7 +18,9 @@ theme:
 nav:
   - Início: index.md
   - Mães&Pais: pais.md
-  - professores.md
+  - Professores: professores.md
+  - Contato: contato.md
+  - Localização: localizacao.md
   - Turmas:
     - 1º ano: turmas/1o-ano.md
     - 2º ano: turmas/2o-ano.md
