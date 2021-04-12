@@ -23,7 +23,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 **Sexta-feira**
 
-- [Educação Física]()
+- [Educação Física](https://padlet.com/maxcaio1/ht0sddhf5yab0ut5)
 
 **Sábado**
 
