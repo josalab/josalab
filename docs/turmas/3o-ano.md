@@ -31,13 +31,6 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 ## Reinserção 2º ano
 
-Para os alunos em reinserção, as atividades de cada disciplina podem ser acessadas pelos links abaixo:
+Para os alunos em reinserção, as atividades podem ser acessadas pelo link abaixo:
 
-- [Artes]()
-- [Ciências]()
-- [Educação Física]()
-- [Ensino Religioso]()
-- [Geografia]()
-- [História]()
-- [Matemática]()
-- [Língua Portuguesa]()
+- [Reinserção - 2º ano 2020 ]()
