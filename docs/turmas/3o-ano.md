@@ -33,4 +33,4 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 Para os alunos em reinserção, as atividades podem ser acessadas pelo link abaixo:
 
-- [Reinserção - 2º ano 2020 ]()
+- [Reinserção - 2º ano 2020 ](https://classroom.google.com/u/0/w/MzA5Mjk5NzI3MTQ1/tc/MzIzMDMxOTY0MTA5)
