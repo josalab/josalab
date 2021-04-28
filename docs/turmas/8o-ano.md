@@ -40,7 +40,7 @@ Para os alunos em reinserção, as atividades de cada disciplina podem ser acess
 - [Ensino Religioso](https://padlet.com/fredericohorie/bxr64gpl0pd27ooq)
 - [Geografia](https://padlet.com/fredericohorie/reinsercao7anogeo)
 - [História](https://padlet.com/fredericohorie/lxtfc4in93s0bzh1)
-- [Inglês](https://padlet.com/fredericohorie/i5xeh94o0a8jrcpw)
+- [Inglês](https://padlet.com/leodobrasilprof/x1wy3xhqoy3g1lnd)
 - [Matemática](https://padlet.com/fredericohorie/pzw2t8pe5ly0ji2w)
 - [Português](https://padlet.com/fredericohorie/5vppr3s1fvel8t9z)
 
