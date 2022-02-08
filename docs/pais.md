@@ -1,2 +1,0 @@
-# Mães, pais e responsáveis
-

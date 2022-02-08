@@ -1,5 +1,0 @@
-#!/bin/bash
-
-mkdocs serve
-
-
