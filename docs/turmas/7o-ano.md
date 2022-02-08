@@ -1,4 +1,4 @@
-# 7º anos A
+# 7º ano A
 Nessa página vocês encontram os links para acessar as atividades de todas as disciplinas. As postagens são feitas em dias específicos da semana
 
 **Segunda-feira**
