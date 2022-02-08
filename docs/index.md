@@ -1,6 +1,5 @@
 # Josafá Machado 
 
-Para informações sobre [matrícula em 2021, clique aqui](anos/2021.md). :point_left:
 ## Turmas
 
 - [1º ano](turmas/1o-ano.md)
