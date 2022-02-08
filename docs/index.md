@@ -8,6 +8,6 @@
 - [4º ano](turmas/4o-ano.md)
 - [5º ano](turmas/5o-ano.md)
 - [6º ano](turmas/6o-ano.md)
-- [7ºs anos A e B](turmas/7o-ano.md)
+- [7º ano](turmas/7o-ano.md)
 - [8º ano](turmas/8o-ano.md)
 - [9º ano](turmas/9o-ano.md)
