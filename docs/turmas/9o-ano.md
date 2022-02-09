@@ -15,6 +15,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 - [Artes](https://padlet.com/edbergon/fkb7g9wlamevioky)
 - [Educação Física]()
+  
 **Quinta-feira**
 
 - [Inglês](https://padlet.com/leodobrasilprof/pqad3xfcf481kovm)
