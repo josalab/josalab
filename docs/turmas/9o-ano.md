@@ -14,18 +14,17 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 **Quarta-feira**
 
 - [Artes](https://padlet.com/edbergon/fkb7g9wlamevioky)
-- [Português](https://padlet.com/fredericohorie/h5zgl4w45ommg67o)
-
+- [Educação Física]()
 **Quinta-feira**
 
 - [Inglês](https://padlet.com/leodobrasilprof/pqad3xfcf481kovm)
-- [Geografia](https://padlet.com/HudsonEmanoel/9anogeo)
+- [Geografia](https://padlet.com/fredericohorie/id6d0n40wvrai6r9)
 
 **Sexta-feira**
 
-- [Educação Física](https://padlet.com/maxcaio1/85h3fstxkyg8ibe9)
-
+- [Português](https://padlet.com/fredericohorie/h5zgl4w45ommg67o)
+- [Sala de Leitura](https://padlet.com/fredericohorie/Leitura9ano)
+  
 **Sábado**
 
-- [Sala de Leitura](https://padlet.com/fredericohorie/Leitura9ano)
 - [Sala de Recursos Multifuncional](https://padlet.com/fredericohorie/swxwpjj8uu9nzgyz)
