@@ -14,7 +14,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 **Quarta-feira**
 
 - [Artes](https://padlet.com/edbergon/qzdhzaau29t7zb8)
-- [Educação Física]()
+- [Educação Física](https://padlet.com/kallinemiranda/ef7anojosafa)
 
 **Quinta-feira**
 
