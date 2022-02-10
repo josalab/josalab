@@ -4,7 +4,7 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 **Segunda-feira**
 
 - [Matemática](https://padlet.com/mkmdeoliveira/matematica7)
-- [História](https://padlet.com/daianycrdemedeiros/7AnoHistoria)
+- [História](https://padlet.com/ericoerms/7Ano)
 
 **Terça-feira**
 
