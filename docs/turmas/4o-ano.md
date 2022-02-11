@@ -28,9 +28,3 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 - [Ensino Religioso]
 - [Sala de Leitura]
 - [Sala  de Recursos Multifuncional]
-
-## Reinserção 3º ano
-
-Para os alunos em reinserção, as atividades podem ser acessadas pelo link abaixo:
-
-- [Reinserção - 3º ano 2020 ]
