@@ -3,28 +3,28 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 **Segunda-feira**
 
-- [Língua Portuguesa](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM1MjQxNTYx)
+- [Língua Portuguesa]
 
 **Terça-feira**
 
-- [Matemática](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM4NTE3MzAz)
+- [Matemática]
 
 **Quarta-feira**
 
-- [Ciências](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM4NTE3MzU0)
+- [Ciências]
 
 **Quinta-feira**
 
-- [História](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM4NTE3MzYw)
-- [Geografia](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM4NTE3Mzcx)
+- [História]
+- [Geografia]
 
 **Sexta-feira**
 
-- [Educação Física](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM4NTE3NDIy)
-- [Artes](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM4NTE3NDAy)
+- [Educação Física]
+- [Artes]
 
 **Sábado**
 
-- [Ensino Religioso](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM4NTE3NDQy)
-- [Sala de Leitura](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM1NDY1MTI1)
-- [Sala  de Recursos Multifuncional](https://classroom.google.com/w/MzA5MzAxNjU0NDky/tc/MzA5NjM4NTE3NDk1)
+- [Ensino Religioso]
+- [Sala de Leitura]
+- [Sala  de Recursos Multifuncional]

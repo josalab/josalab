@@ -3,34 +3,28 @@ Nessa página vocês encontram os links para acessar as atividades de todas as d
 
 **Segunda-feira**
 
-- [Língua Portuguesa](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzExODMwODk4Mzkz)
+- [Língua Portuguesa]
 
 **Terça-feira**
 
-- [Matemática](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzExODMwODk4Mzgx)
+- [Matemática]
 
 **Quarta-feira**
 
-- [Ciências](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzExODMwNjA4NjM1)
+- [Ciências]
 
 **Quinta-feira**
 
-- [História](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDU1NDczNTY0)
-- [Geografia](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NjUwNzUxMzc3)
+- [História]
+- [Geografia]
 
 **Sexta-feira**
 
-- [Educação Física](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDU1NDczNTc1)
-- [Artes](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDUxMDIzOTQ0)
+- [Educação Física]
+- [Artes]
 
 **Sábado**
 
-- [Ensino Religioso](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDUxMDI0MTQ1)
-- [Sala de Leitura](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDUxMDI0MDUz)
-- [Sala  de Recursos Multifuncional](https://classroom.google.com/w/MzA5MzAyODQ2OTgx/tc/MzA5NDUxMDI0MDQ1)
-
-## Reinserção 4º ano
-
-Para os alunos em reinserção, as atividades podem ser acessadas pelo link abaixo:
-
-- [Reinserção - 4º ano 2020 ](https://classroom.google.com/u/0/w/MzA5MzAyODQ2OTgx/tc/MzIzMDMxOTY0MjI3)
+- [Ensino Religioso]
+- [Sala de Leitura]
+- [Sala  de Recursos Multifuncional]
